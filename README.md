@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @mushtariyakhmad
-- 👀 I’m interested in Aerospace ENgineering, Artificila intelligence and learning foreign languages...
-- 🌱 I’m currently learning IYO engineering in London...
-- 💞️ I’m looking to collaborate on CAD...
-- 📫 How to reach me - my email : mushtariybegima@gmail.com...
-
-<!---
-mushtariyakhmad/mushtariyakhmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Real-Time Systems & AI Engineer
+Building low-latency, multimodal systems for AI and robotics.
+• C++/Python for high-performance simulations (Unreal Engine, NASA SPICE).
+• Real-time pipelines (sub-100ms latency, pose estimation, distributed systems).
+• AI/ML (NLP, computer vision) for proactive human-computer interaction.
+• Passionate about invisible AI—like Cluely’s desktop copilot—that anticipates intent.
